@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "801924098255",
+    "project_id": "account-ppb",
+    "storage_bucket": "account-ppb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801924098255:android:aadcb5f8aae7fe83fa2fba",
+        "android_client_info": {
+          "package_name": "com.ramaarya.ppb_account"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "801924098255-3j525r841mbp5g79li2mee09cg8tatle.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAuE30Mxl1IJX7saRC0F1BSL6krLaEIPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "801924098255-3j525r841mbp5g79li2mee09cg8tatle.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
