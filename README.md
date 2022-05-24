@@ -1,6 +1,6 @@
 # ppb_account
 
-A new Flutter project.
+Tugas Pemrograman Perangkat Bergerak
 
 ## Getting Started
 
